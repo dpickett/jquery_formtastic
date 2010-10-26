@@ -1,0 +1,14 @@
+= formtastic_ajax
+
+ajaxify your formtastic forms. Requires a json response provided by inherited_resources
+
+  $("form.formtastic").formtasticFrom({success: function(data){ //handling code here }});
+
+== Note on Patches/Pull Requests
+ 
+* Fork the project.
+* Send me a pull request. Bonus points for topic branches.
+
+== Copyright
+
+Copyright (c) 2010 Dan Pickett. See LICENSE for details.
